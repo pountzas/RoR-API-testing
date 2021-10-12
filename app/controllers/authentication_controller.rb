@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class AuthenticationController < ApplicationController
   # return auth token once user is authenticated
   def authenticate
